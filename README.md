@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="logo.png" alt="Wingky530 Logo" width="120" />
+</div>
+
 # Wingky530
 
-**Self-taught developer building things from a smartphone.**  
+**A Vibecoder who gives a damn • Self-taught developer building things from a smartphone.**  
 📍 Jakarta, Indonesia
 
 Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming app).
