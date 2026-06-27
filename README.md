@@ -2,9 +2,10 @@
   <img src="logo.png" alt="Wingky530 Logo" width="250" />
 </div>
 
-# Wingky530
+### <i>Wingky.</i>
 
 **A Vibecoder who gives a damn and a self-taught developer who build things from a smartphone.**  
+
 📍 Jakarta, Indonesia
 
 Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming app).
