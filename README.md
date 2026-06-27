@@ -12,7 +12,7 @@ Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming app).
 
 ### Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=astro,react,ts,tailwind,nodejs,turso,cloudflare,vercel&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=astro,react,ts,tailwind,nodejs,cloudflare,vercel&theme=dark)](https://skillicons.dev)
 
 ### GitHub Stats
 
