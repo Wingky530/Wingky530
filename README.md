@@ -18,6 +18,6 @@ Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming web).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wingky530&theme=dark&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wingky530&theme=dark&hide_border=true&layout=compact&hide=html,css)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Wingky530&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wingky530&theme=dark&hide_border=true&layout=compact&hide=html,css)
