@@ -8,7 +8,7 @@
 
 📍 Jakarta, Indonesia
 
-Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming app).
+Currently working on **[Cerydra](https://cerydra.my.id)** (anime streaming web).
 
 ### Tech Stack
 
